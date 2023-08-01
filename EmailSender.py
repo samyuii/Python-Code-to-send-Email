@@ -1,4 +1,4 @@
-# Task 2: Python Code to send Email to everyone use module behind it
+# Python Code to send Email to everyone use module behind it
 
 
 import smtplib, ssl
